@@ -1,0 +1,48 @@
+# 🧩 LeetCode Solutions
+
+Repositório dedicado aos meus estudos de algoritmos, estruturas de dados e resolução de problemas utilizando a plataforma LeetCode.
+
+Aqui você encontrará soluções desenvolvidas por mim durante minha jornada de evolução tecnica em programação, com foco no desenvolvimento de raciocínio lógico, resolução de problemas e preparação para entrevistas técnicas.
+
+## 🚀 Objetivos
+
+* Praticar algoritmos e estruturas de dados
+* Aprimorar habilidades de resolução de problemas
+* Evoluir o raciocínio lógico e computacional
+* Construir uma base sólida para entrevistas técnicas
+
+## 📂 Estrutura
+
+Os exercícios são organizados por categoria e/ou nível de dificuldade:
+
+* Easy
+* Medium
+* Hard
+
+Cada solução contém:
+
+* Código-fonte
+* Explicação da abordagem utilizada
+* Complexidade de tempo e espaço (quando aplicável)
+
+## 🛠️ Tecnologias
+
+* TypeScript
+* JavaScript
+* Node.js
+
+## 📈 Progresso
+
+Este repositório é atualizado constantemente à medida que novos desafios são resolvidos.
+
+## 🔗 Plataforma
+
+Os desafios podem ser encontrados na plataforma LeetCode:
+
+https://leetcode.com/
+
+## 👨‍💻 Autor
+
+Luiz Artur
+
+Desenvolvedor Back-end em formação, com foco em Node.js, Arquitetura de Software e Engenharia de Software.
